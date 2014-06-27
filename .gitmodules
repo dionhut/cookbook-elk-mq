@@ -1,0 +1,12 @@
+[submodule "cookbook-elasticsearch"]
+	path = cookbook-elasticsearch
+	url = https://github.com/elasticsearch/cookbook-elasticsearch.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/kennonkwok/rabbitmq.git
+[submodule "cookbook-kibana3"]
+	path = cookbook-kibana3
+	url = https://github.com/dionhut/cookbook-kibana3.git
+[submodule "cookbook-logstash"]
+	path = cookbook-logstash
+	url = https://github.com/dionhut/cookbook-logstash.git
